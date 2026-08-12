@@ -3,7 +3,7 @@
 
 Koei의 에어매니지먼트를 재해석한 경영 시뮬레이션 게임입니다. 플레이어가 항공사의 CEO가 되어 회사를 설립하고, 항공기를 구매하며, 전 세계를 잇는 노선을 개설하여 최고의 항공사로 성장시키는 웹 기반 시뮬레이션 게임입니다. 실시간으로 변화하는 게임 환경 속에서 전략적인 의사결정을 통해 경쟁사들을 따돌리고 시장을 지배해야 합니다.
 
-실행주소1 : https://air-management.vercel.app/
+실행주소1 : https://sigco3111.github.io/air-management/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
